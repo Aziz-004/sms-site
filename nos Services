@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nos Services - SMS</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <h2>SMS</h2>
+      <div>
+        <a href="index.html">Accueil</a>
+        <a href="services.html">Services</a>
+        <a href="about.html">À propos</a>
+        <a href="contact.html">Contact</a>
+      </div>
+    </nav>
+  </header>
+
+  <section>
+    <h2>Nos Services</h2>
+    <ul>
+      <li>🔧 Maintenance préventive et corrective des installations PV</li>
+      <li>📊 Suivi et monitoring en temps réel</li>
+      <li>⚡ Optimisation des performances énergétiques</li>
+      <li>🔒 Sécurité et conformité des installations</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 SMS - Solar Maintenance Solution. Tous droits réservés.</p>
+  </footer>
+</body>
+</html>
