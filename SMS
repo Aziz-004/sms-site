@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SMS - Solar Maintenance Solution</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <h2>SMS</h2>
+      <div>
+        <a href="index.html">Accueil</a>
+        <a href="services.html">Services</a>
+        <a href="about.html">À propos</a>
+        <a href="contact.html">Contact</a>
+      </div>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Bienvenue chez Solar Maintenance Solution</h1>
+    <p>Votre partenaire de confiance pour la maintenance, le suivi et l’optimisation des installations photovoltaïques.</p>
+    <a href="services.html" class="btn">Nos Services</a>
+  </section>
+
+  <section>
+    <h2>Pourquoi choisir SMS ?</h2>
+    <p>Nous garantissons la performance maximale, une durée de vie prolongée et la sécurité de vos installations photovoltaïques. Avec nous, votre investissement solaire reste rentable et durable.</p>
+  </section>
+
+  <footer>
+    <p>© 2025 SMS - Solar Maintenance Solution. Tous droits réservés.</p>
+  </footer>
+</body>
+</html>
